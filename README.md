@@ -7,7 +7,3 @@
 - 使用个性字体：站名「造字工房尚雅」；正文「汉仪跳跳体」。为了性能，使用了 [font-spider](https://github.com/aui/font-spider) 对字体进行压缩。字体源文件：/assets/font/.font-spider/；文字承载页：/assets/font/index.html。
 
 纯静态，没时间搞动态。
-
-有什么问题提 issues。
-
-另外白菜价出一个舔狗域名：**jie.nu(姐奴，400块)**
